@@ -8,3 +8,7 @@ npm start watch
 2. Fluent UI
 
 developer.microsoft.com/en-us/fluentui#/
+
+3. Microsoft Power Apps Repo
+
+   https://github.com/microsoft/PowerApps-Samples
